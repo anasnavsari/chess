@@ -1,13 +1,18 @@
-div{
-    height: 100px;
-    width:100px;
-    border: 1px solid black;
+div{ text-align: center;}
+.float{
+    height: 5vw;
+    width:5vw;
     float: left;
+    clear:right;
 }
 .black{background-color:#c68642;}
 .white{ background-color: #f8dbbd;}
 .box{
-    border: 2px solid black;
-    width: 816px;
-    height:815px;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    width:40vw;
+    height:40vw;
+    border: 1px solid white;
 }
+.light{color: white;}
+i{ font-size: 2vw;   margin-top: 1vw;}
