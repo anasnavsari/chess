@@ -1,0 +1,13 @@
+div{
+    height: 100px;
+    width:100px;
+    border: 1px solid black;
+    float: left;
+}
+.black{background-color:#c68642;}
+.white{ background-color: #f8dbbd;}
+.box{
+    border: 2px solid black;
+    width: 816px;
+    height:815px;
+}
